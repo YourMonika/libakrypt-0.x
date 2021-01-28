@@ -4,6 +4,7 @@
 
 #include <math.h>
 #include <libakrypt.h>
+#include <assert.h>
 
 
 #define RHO 0x01010101L
